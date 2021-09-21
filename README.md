@@ -1,7 +1,4 @@
 # **繁體中文場景文字辨識競賽－初階：場景文字檢測**
-
-# **教育部全國大專校院人工智慧競賽(AI CUP)-機器閱讀紀錄-課程挑戰賽**
-
 [AI CUP Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/13)
 
 Team Name : 報名系統一致\
