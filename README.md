@@ -3,7 +3,7 @@
 
 Team Name : 報名系統一致\
 Team Member : 吳亦振 (Wu, Yi-Chen)\
-Final Rank : 10th/341
+Final Rank : 10th/341 ( Top 4% )
 
 ## `Run Scripts`
 
